@@ -1,0 +1,51 @@
+.c{
+    display: inline-flex; 
+    /* background; */
+    
+ }
+ h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 100px;
+    
+ }
+ .n{
+     display: inline-block;
+     margin-left: 150px;
+     
+ }
+ .main2{
+    justify-content: center;
+    height: fit-content;
+    width: fit-content;
+    display:inline-flex;
+    align-items: center;
+    background: url(/src/4882066.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+ }
+ .D{
+    margin: 200px;
+    /* text-shadow: 30px; */
+    color: violet;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .butt1{
+    height: 50px;
+    height: 60px;
+    background-color: rgb(62, 138, 231);
+    border-radius: 50px;
+    color: white;
+    box-shadow: 10px;
+ }
+ button:hover{
+    background-color: rgba(109, 33, 33,0.5);
+ }
+ .butt1:active{
+    background-color: rgb(99, 16, 16);
+    
+ }
+ 
